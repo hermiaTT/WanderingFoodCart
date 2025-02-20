@@ -1,0 +1,42 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.suo
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# User-specific files
+*.user
+*.userprefs
+*.sln.docstates
+
+# Unity Metadata
+/[Aa]ssets/[Ss]treaming[Aa]ssets/*
+!/[Aa]ssets/[Ss]treaming[Aa]ssets/*.meta
+/[Aa]ssets/[Aa]ddressable[Aa]ssets/*
+!/[Aa]ssets/[Aa]ddressable[Aa]ssets/*.meta
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+*.unitypackage
