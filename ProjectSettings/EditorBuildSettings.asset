@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 81a05d9454db80a4187df1f6276d99d9
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: b3cef3cac5ceabf4a9875da00b9653f5
+  - enabled: 1
+    path: Assets/Scenes/BusToChengDU.unity
+    guid: 943e022de3cd0c44e80e2779b0ddf5ef
+  - enabled: 1
+    path: Assets/Scenes/Kuanzhai.unity
+    guid: 27ae99b92050dd247aedb4a9a69d4d49
+  - enabled: 1
+    path: Assets/Scenes/CookingSchool.unity
+    guid: cdfc8ff3933174348a56f096122c610b
+  - enabled: 1
+    path: Assets/Scenes/CookingGame.unity
+    guid: 28c436e5d10c28a4f8ea6621c72ce087
+  - enabled: 1
+    path: Assets/Scenes/MasterShop.unity
+    guid: d772546f5b28bc1489dd79bcda8d42be
+  - enabled: 0
+    path: Assets/Scenes/Suburbs.unity
+    guid: 8fdc7532298430c46b3633e931d0ba38
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: be0eb4a6f18e8854fac03bcde35f2446
+  m_configObjects: {}
